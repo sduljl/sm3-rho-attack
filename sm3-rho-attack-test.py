@@ -128,7 +128,7 @@ def rho_attack(n):
             return
     print("Failed")
 
-
+#测试数据
 start = time.time()
 rho_attack(8)
 end = time.time()
